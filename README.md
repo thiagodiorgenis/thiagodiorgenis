@@ -65,23 +65,26 @@ Exploração de lógica de programação, gerenciamento de estados e interação
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img 
-  alt="Estatísticas do GitHub" 
-  align="left"
-  width="44%"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=thiagodiorgenis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img 
-  alt="Linguagens mais usadas" 
-  align="left"
-  width="48%"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodiorgenis&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" />
-</p>
-
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        alt="Estatísticas do GitHub"
+        width="100%"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=thiagodiorgenis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        alt="Linguagens mais usadas"
+        width="100%"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodiorgenis&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img 
