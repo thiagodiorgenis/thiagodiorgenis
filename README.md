@@ -37,9 +37,6 @@ Aplicativo conectado a um banco de dados **MariaDB** por meio de uma **API próp
 
 ---
 
-### 🎮 Protótipos de Jogos (Godot)
-Exploração de lógica de programação, gerenciamento de estados e interação através do desenvolvimento de jogos avançados em **Godot** (projetos pessoais não finalizados, mas com forte aplicação de lógica de software).
-
 ## 🧰 Tecnologias e ferramentas
 
 ### Linguagens
