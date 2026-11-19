@@ -23,7 +23,7 @@ Uso o GitHub como vitrine dos meus principais projetos. A maioria nasceu de nece
 
 Sistema web completo para apoiar a operação e a gestão de um restaurante. O projeto conta com controle de caixas e mesas, comandas individuais, cadastro de produtos e adicionais, além de módulos financeiros (tesouraria, contas a pagar/receber) e uma tela de desempenho do negócio.
 
-<img src="./assets/pdv-preview.png" alt="Preview do Sistema de PDV" width="100%" style="border-radius: 8px; margin-top: 10px;" />
+<!--<img src="./assets/pdv-preview.png" alt="Preview do Sistema de PDV" width="100%" style="border-radius: 8px; margin-top: 10px;" /> -->
 
 ---
 
@@ -32,6 +32,8 @@ Sistema web completo para apoiar a operação e a gestão de um restaurante. O p
 ![Repo](https://img.shields.io/badge/c%C3%B3digo-local-lightgrey?style=flat-square)
 
 Aplicativo conectado a um banco de dados **MariaDB** por meio de uma **API própria** (acessada pela rede local). Desenvolvido para permitir a consulta e atualização ágil de informações de produtos, como preços e estoque, além de funcionalidades voltadas para o atendimento ao cliente. *(Projeto de uso interno, código não versionado no GitHub).*
+
+<!--<img src="./assets/app-preview.png" alt="Preview do Aplicativo" width="100%" style="border-radius: 8px; margin-top: 10px;" /> -->
 
 ---
 
